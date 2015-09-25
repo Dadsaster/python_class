@@ -7,24 +7,29 @@ CS approach to Python: http://cscircles.cemc.uwaterloo.ca/
 Making Games with Python & Pygame: http://inventwithpython.com/pygame/
 Play a game to learn Python: http://www.checkio.org/
 Slightly more advanced intro to Python: http://www.swaroopch.com/notes/python/
-Good CS intro: http://interactivepython.org/runestone/static/thinkcspy/index.html
+Good CS intro:
+  http://interactivepython.org/runestone/static/thinkcspy/index.html
 Good review of Python: https://docs.python.org/3/tutorial/
 intermediate Python tutorial: http://www.diveintopython3.net/
 
 ### free courses
 
-Python and CS: https://www.edx.org/course/cs-all-introduction-computer-science-harveymuddx-cs005x?gclid=Cj0KEQjwvo6wBRCG3Zv92ZSLlIYBEiQA5PLVAvUlkz9RorB-R5PvhASYd3RCMroqHwNZi8nbf2Vmx8YaAlf18P8HAQ
+Python and CS:
+https://www.edx.org/course/cs-all-introduction-computer-science-harveymuddx-cs005x
 Another free course: https://www.coursera.org/course/interactivepython1
 
 ## JavaScript
 
 Good JS primer: http://eloquentjavascript.net/
 CS and JS course: http://web.stanford.edu/class/cs101/
-Good JS book: http://bdcampbell.net/javascript/book/javascript_the_good_parts.pdf
+Good JS book: 
+  http://bdcampbell.net/javascript/book/javascript_the_good_parts.pdf
 intermediate JS: http://jstherightway.org/
-intermediate JS: https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
+intermediate JS: 
+  https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
 free MOOC: https://www.udacity.com/course/javascript-basics--ud804
-Beginner's course: http://www.microsoftvirtualacademy.com/training-courses/javascript-fundamentals-for-absolute-beginners
+Beginner's course: 
+  http://www.microsoftvirtualacademy.com/training-courses/javascript-fundamentals-for-absolute-beginners
 
 ## Puzzle Sites
 
